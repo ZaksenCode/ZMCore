@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NSN",
+    "SBS",
+    "NSN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "B": {
+      "item": "zmcore:blank_module"
+    }
+  },
+  "result": {
+    "item": "zmcore:speed_module",
+    "count": 1
+  }
+}

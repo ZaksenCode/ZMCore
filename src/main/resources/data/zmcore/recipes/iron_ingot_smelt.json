@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "zmcore:iron_dust_powder"
+  },
+  "result": "minecraft:iron_ingot"
+}

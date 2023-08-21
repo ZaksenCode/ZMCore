@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ICI",
+    "NRN",
+    "ICI"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_bars"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "item": "minecraft:charcoal"
+    },
+    "R": {
+      "item": "zmcore:machine_case"
+    }
+  },
+  "result": {
+    "item": "zmcore:purifier",
+    "count": 1
+  }
+}

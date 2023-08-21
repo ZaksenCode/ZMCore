@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "zmcore:iron_dust_powder",
+    "zmcore:gold_dust_powder",
+    "zmcore:redstone_dust_powder",
+    "zmcore:lapis_dust_powder",
+    "zmcore:diamond_dust_powder",
+    "zmcore:emerald_dust_powder"
+  ]
+}

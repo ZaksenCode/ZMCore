@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,lit=false": {
+      "model": "zmcore:block/dust_solvent"
+    },
+    "facing=south,lit=false": {
+      "model": "zmcore:block/dust_solvent",
+      "y": 180
+    },
+    "facing=west,lit=false": {
+      "model": "zmcore:block/dust_solvent",
+      "y": 270
+    },
+    "facing=east,lit=false": {
+      "model": "zmcore:block/dust_solvent",
+      "y": 90
+    },
+    "facing=north,lit=true": {
+      "model": "zmcore:block/dust_solvent_on"
+    },
+    "facing=south,lit=true": {
+      "model": "zmcore:block/dust_solvent_on",
+      "y": 180
+    },
+    "facing=west,lit=true": {
+      "model": "zmcore:block/dust_solvent_on",
+      "y": 270
+    },
+    "facing=east,lit=true": {
+      "model": "zmcore:block/dust_solvent_on",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "zmcore:purifier",
+  "ingredients": [
+    {
+      "item": "zmcore:gold_dust_powder"
+    }
+  ],
+  "output": {
+    "item": "minecraft:raw_gold"
+  }
+}

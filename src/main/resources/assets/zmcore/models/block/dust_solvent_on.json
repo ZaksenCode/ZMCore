@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "front": "zmcore:block/dust_solvent_front_on",
+    "side": "zmcore:block/dust_solvent_side",
+    "top": "zmcore:block/dust_solvent_top"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "zmcore",
+  "version": "${version}",
+  "name": "ZM Core",
+  "description": "",
+  "authors": [
+    "Zaksen_",
+    "Sky_Rofls"
+  ],
+  "license": "MIT",
+  "icon": "assets/zmcore/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.zaksen.zmcore.client.ZMCoreClient"
+    ],
+    "main": [
+      "org.zaksen.zmcore.ZMCore"
+    ]
+  },
+  "mixins": [
+    "zmcore.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

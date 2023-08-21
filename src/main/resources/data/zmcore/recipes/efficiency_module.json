@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NEN",
+    "DBD",
+    "NEN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "B": {
+      "item": "zmcore:blank_module"
+    }
+  },
+  "result": {
+    "item": "zmcore:efficiency_module",
+    "count": 1
+  }
+}

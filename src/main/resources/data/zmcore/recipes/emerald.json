@@ -1,0 +1,11 @@
+{
+  "type": "zmcore:purifier",
+  "ingredients": [
+    {
+      "item": "zmcore:emerald_dust_powder"
+    }
+  ],
+  "output": {
+    "item": "minecraft:emerald"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NIN",
+    "IRI",
+    "NIN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_bars"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "zmcore:machine_case",
+    "count": 1
+  }
+}

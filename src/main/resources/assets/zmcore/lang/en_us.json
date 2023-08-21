@@ -1,0 +1,55 @@
+{
+  "itemGroup.zmcore.main": "ZMCore",
+
+  "generator.zmcore.sky_world": "Skyblock",
+
+  "block.zmcore.island_core": "Ore-bearing core",
+
+  "block.zmcore.machine_case": "Machine case",
+
+  "block.zmcore.purifier": "Purifier",
+  "screen.purifier.name": "Purifier",
+
+  "block.zmcore.dust_solvent": "Dust solvent",
+  "screen.dust_solvent.name": "Dust solvent",
+
+  "item.zmcore.base_tip_1": "A note for automation:",
+  "item.zmcore.base_tip_2": "Fuel supply from up",
+  "item.zmcore.base_tip_3": "Resource supply from side",
+  "item.zmcore.base_tip_4": "From below, collect the processed resource",
+
+  "item.zmcore.blank_module": "Blank module",
+  "item.zmcore.blank_module_tip_1": "This is an empty module used to craft other modules",
+
+  "item.zmcore.speed_module": "Module: speed",
+  "item.zmcore.speed_module_tip_1": "This is speed module, using to boost machine speed",
+
+  "item.zmcore.efficiency_module": "Module: efficiency",
+  "item.zmcore.efficiency_module_tip_1": "This is efficiency module, using to boost machine efficiency",
+
+  "item.zmcore.productivity_module": "Module: productivity",
+  "item.zmcore.productivity_module_tip_1": "This is productivity module, using to boost machine productivity",
+
+  "block.zmcore.dust": "Dust",
+  "item.zmcore.dust_powder": "Dust",
+
+  "block.zmcore.iron_dust": "Iron dust",
+  "item.zmcore.iron_dust_powder": "Iron dust",
+
+  "block.zmcore.gold_dust": "Gold dust",
+  "item.zmcore.gold_dust_powder": "Gold dust",
+
+  "block.zmcore.redstone_dust": "Redstone dust",
+  "item.zmcore.redstone_dust_powder": "Redstone dust",
+
+  "block.zmcore.lapis_dust": "Lapis dust",
+  "item.zmcore.lapis_dust_powder": "Lapis dust",
+
+  "block.zmcore.diamond_dust": "Diamond dust",
+  "item.zmcore.diamond_dust_powder": "Diamond dust",
+
+  "block.zmcore.emerald_dust": "Emerald dust",
+  "item.zmcore.emerald_dust_powder": "Emerald dust",
+
+  "item.zmcore.more_info_tip": "Press Shift for more info!"
+}

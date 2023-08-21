@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "zmcore:purifier",
+    "zmcore:machine_case"
+  ]
+}

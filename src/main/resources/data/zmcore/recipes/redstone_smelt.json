@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "zmcore:redstone_dust_powder"
+  },
+  "result": "minecraft:redstone"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NEN",
+    "DBD",
+    "NEN"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "E": {
+      "item": "minecraft:coal"
+    },
+    "D": {
+      "item": "minecraft:charcoal"
+    },
+    "B": {
+      "item": "zmcore:blank_module"
+    }
+  },
+  "result": {
+    "item": "zmcore:productivity_module",
+    "count": 1
+  }
+}

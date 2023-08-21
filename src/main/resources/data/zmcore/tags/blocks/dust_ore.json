@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "zmcore:iron_dust",
+    "zmcore:gold_dust",
+    "zmcore:redstone_dust",
+    "zmcore:lapis_dust",
+    "zmcore:diamond_dust",
+    "zmcore:emerald_dust"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NDN",
+    "IRI",
+    "IDI"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_bars"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "zmcore:dust_powder"
+    },
+    "R": {
+      "item": "zmcore:machine_case"
+    }
+  },
+  "result": {
+    "item": "zmcore:dust_solvent",
+    "count": 1
+  }
+}

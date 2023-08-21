@@ -1,0 +1,55 @@
+{
+  "itemGroup.zmcore.main": "ZMCore",
+
+  "generator.zmcore.sky_world": "Skyblock",
+
+  "block.zmcore.island_core": "Рудоносное ядро",
+
+  "block.zmcore.machine_case": "Корпус механизма",
+
+  "block.zmcore.purifier": "Очиститель",
+  "screen.purifier.name": "Очиститель",
+
+  "block.zmcore.dust_solvent": "Растворитель пыли",
+  "screen.dust_solvent.name": "Растворитель пыли",
+
+  "item.zmcore.base_tip_1": "Памятка для автоматизации:",
+  "item.zmcore.base_tip_2": "Сверху подавать топливо",
+  "item.zmcore.base_tip_3": "Сбоку подавать ресурс",
+  "item.zmcore.base_tip_4": "Снизу собирать обработанный ресурс",
+
+  "item.zmcore.blank_module": "Пустой модуль",
+  "item.zmcore.blank_module_tip_1": "Этот пустой модель используется для создания других модулей",
+
+  "item.zmcore.speed_module": "Модуль: скорость",
+  "item.zmcore.speed_module_tip_1": "Этот модуль используется для повышения скорость механизма",
+
+  "item.zmcore.efficiency_module": "Модуль: эффективность",
+  "item.zmcore.efficiency_module_tip_1": "Этот модуль используется для повышения эффективности механизма",
+
+  "item.zmcore.productivity_module": "Модуль: продуктивность",
+  "item.zmcore.productivity_module_tip_1": "Этот модуль используется для повышения продуктивности механизма",
+
+  "block.zmcore.dust": "Пыль",
+  "item.zmcore.dust_powder": "Пыль",
+
+  "block.zmcore.iron_dust": "Железная пыль",
+  "item.zmcore.iron_dust_powder": "Железная пыль",
+
+  "block.zmcore.gold_dust": "Золотая пыль",
+  "item.zmcore.gold_dust_powder": "Золотая пыль",
+
+  "block.zmcore.redstone_dust": "Редстоун пыль",
+  "item.zmcore.redstone_dust_powder": "Редстоун пыль",
+
+  "block.zmcore.lapis_dust": "Лазуритовая пыль",
+  "item.zmcore.lapis_dust_powder": "Лазуритовая пыль",
+
+  "block.zmcore.diamond_dust": "Алмазная пыль",
+  "item.zmcore.diamond_dust_powder": "Алмазная пыль",
+
+  "block.zmcore.emerald_dust": "Изумрудовая пыль",
+  "item.zmcore.emerald_dust_powder": "Изумрудовая пыль",
+
+  "item.zmcore.more_info_tip": "Нажмите Shift для информации!"
+}

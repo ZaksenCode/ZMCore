@@ -1,0 +1,11 @@
+{
+  "type": "zmcore:purifier",
+  "ingredients": [
+    {
+      "item": "zmcore:lapis_dust_powder"
+    }
+  ],
+  "output": {
+    "item": "minecraft:lapis_lazuli"
+  }
+}
