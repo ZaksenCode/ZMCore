@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": { "model": "zmcore:block/core"}
+    "": { "model": "zmcore:block/island_core"}
   }
 }
